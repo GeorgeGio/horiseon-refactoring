@@ -8,6 +8,10 @@ body {
     background-color: #d9dcd6;
 }
 
+main img {
+    max-height: 200px;
+
+}
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,16 +19,16 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
-header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,7 +41,7 @@ header nav {
 a {
     color: #ffffff;
     text-decoration: none;
-    margin-left: 25px;
+    padding: 15px;
 }
 
 p {
@@ -62,6 +66,7 @@ p {
     float: right;
     margin-left: 25px;
 }
+
 
 .content {
     width: 75%;
@@ -108,6 +113,23 @@ p {
     color: #ffffff;
 }
 
+.online-reputa {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 
 .search-engine-optimization img {
     max-height: 200px;

@@ -15,7 +15,12 @@ Industries use and consider the importance of such process as it ensures that pe
 ![Current Page of Horiseon](./assets/images/georgegio.github.io_horiseon-refactoring_.png)
 
 ## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+You download the file in your local machine and unzip the folder containing the original code in its un-sematic form. 
+https://static.fullstack-bootcamp.com/uk-16/activities/01-html-git-github-module/04-code-refactor-lesson/challenge.zip  
+
+
+
+
 
 ## Deployed of Horiseon webpage
 https://georgegio.github.io/horiseon-refactoring/  
